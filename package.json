@@ -1,0 +1,38 @@
+{
+  "name": "dev-community",
+  "version": "1.0.0",
+  "description": "mern application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keshavk07/dev-Community.git"
+  },
+  "keywords": [
+    "mern",
+    "social-media"
+  ],
+  "author": "KESHAV KUMAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keshavk07/dev-Community/issues"
+  },
+  "homepage": "https://github.com/Keshavk07/dev-Community#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "config": "^3.3.11",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.3",
+    "request": "^2.88.2",
+    "tough-cookie": "^4.1.3"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.0"
+  }
+}
