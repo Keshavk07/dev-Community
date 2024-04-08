@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Keshavk07/dev-Community#readme",
   "dependencies": {
+    "axios": "^1.6.8",
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.11",
